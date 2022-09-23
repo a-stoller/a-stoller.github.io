@@ -55,11 +55,11 @@ If you want to use Beautiful Jekyll as a ruby gem instead, follow the [advanced 
      color: darkolivegreen }
 
 .gs-section-01 p {
-     font-size: 35px;
+     font-size: 10px;
 }
 
 .gs-section-02 h3 { 
-     color: fuschia }
+     color: magenta }
 
 .gs-section-02 p {
      font-size: 25px;
@@ -69,7 +69,7 @@ If you want to use Beautiful Jekyll as a ruby gem instead, follow the [advanced 
      color: midnightblue }
 
 .gs-section-03 p {
-     font-size: 30px;
+     font-size: 60px;
 }
 
 </style>
